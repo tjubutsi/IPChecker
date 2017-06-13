@@ -80,7 +80,7 @@ namespace IPChecker
         {
             SmtpClient client = new SmtpClient();
             client.UseDefaultCredentials = false;
-            client.Credentials = new NetworkCredential("admin@skyweb.nu", "[S'p@HS,(iMVl|-]-vy@");
+            client.Credentials = new NetworkCredential("", ""); //replace with config
             client.EnableSsl = true;
             client.Port = 587;
             client.Host = "skyweb.nu";
