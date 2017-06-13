@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IPChecker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jonathan.vorst@gmail.com</Value>
+    </Setting>
+    <Setting Name="VerifyInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="RegistryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SOFTWARE\IPChecker</Value>
+    </Setting>
+    <Setting Name="RegistryIPProperty" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CurrentIP</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

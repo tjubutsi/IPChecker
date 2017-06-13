@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPChecker", "IpChecker\IPChecker.csproj", "{BA368DB9-40AD-43CF-8753-8852C9D22054}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{6F7015DE-CC12-4A4D-87F8-B45D383AD945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA368DB9-40AD-43CF-8753-8852C9D22054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA368DB9-40AD-43CF-8753-8852C9D22054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA368DB9-40AD-43CF-8753-8852C9D22054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA368DB9-40AD-43CF-8753-8852C9D22054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7015DE-CC12-4A4D-87F8-B45D383AD945}.Debug|Any CPU.ActiveCfg = Debug
+		{6F7015DE-CC12-4A4D-87F8-B45D383AD945}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
